@@ -1,0 +1,127 @@
+<mxfile host="65bd71144e">
+    <diagram id="i_wp8QiKRYVvEktpCusX" name="Page-1">
+        <mxGraphModel dx="772" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Cross-Functional Flowchart" style="shape=table;childLayout=tableLayout;startSize=80;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="130" width="360" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="swimlane;horizontal=0;fontStyle=0;points=[[0,0.5],[1,0.5]];fillColor=none;strokeColor=none;portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="3">
+                    <mxGeometry y="80" width="360" height="86" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="40" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="86" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="132" width="45" height="86" as="geometry">
+                        <mxRectangle width="45" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="177" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="223" width="45" height="86" as="geometry">
+                        <mxRectangle width="45" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="268" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="4">
+                    <mxGeometry x="314" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="swimlane;horizontal=0;fontStyle=0;points=[[0,0.5],[1,0.5]];fillColor=none;strokeColor=none;portConstraint=eastwest;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="3">
+                    <mxGeometry y="166" width="360" height="88" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry width="86" height="88" as="geometry">
+                        <mxRectangle width="86" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry x="86" width="46" height="88" as="geometry">
+                        <mxRectangle width="46" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry x="132" width="45" height="88" as="geometry">
+                        <mxRectangle width="45" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry x="177" width="46" height="88" as="geometry">
+                        <mxRectangle width="46" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry x="223" width="45" height="88" as="geometry">
+                        <mxRectangle width="45" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry x="268" width="46" height="88" as="geometry">
+                        <mxRectangle width="46" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="12">
+                    <mxGeometry x="314" width="46" height="88" as="geometry">
+                        <mxRectangle width="46" height="88" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="swimlane;horizontal=0;fontStyle=0;points=[[0,0.5],[1,0.5]];fillColor=none;strokeColor=none;portConstraint=eastwest;startSize=40;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="3">
+                    <mxGeometry y="254" width="360" height="86" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="40" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="86" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="132" width="45" height="86" as="geometry">
+                        <mxRectangle width="45" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="24" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="177" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="223" width="45" height="86" as="geometry">
+                        <mxRectangle width="45" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="268" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="" style="swimlane;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="20">
+                    <mxGeometry x="314" width="46" height="86" as="geometry">
+                        <mxRectangle width="46" height="86" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
